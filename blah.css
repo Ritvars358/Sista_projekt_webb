@@ -1,0 +1,7 @@
+html {
+  background: url("images/innebandy-startsida-1280.jpg") fixed; /* La in bilden här så att den alltid syns i backgrunden*/
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
